@@ -55,7 +55,7 @@ nav a .current {
 }
 
 .conta{
- background-image:url(images/body.jfif);
+ background-image:url(body.jfif);
    
     overflow: hidden;
     background-blend-mode: overlay;
@@ -163,7 +163,7 @@ font-size: 15px;
 #About .info-img {
   float: left;
   width: 50%;
-  background: url('images/Kwnstantinos-Badidos.jpg') no-repeat;
+  background: url('Kwnstantinos-Badidos.jpg') no-repeat;
  
   min-height: 100%;
 }
